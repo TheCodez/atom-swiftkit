@@ -32,7 +32,7 @@
     "toolchainPath": {
       "title": "Path to the Swift Toolchain Executable",
       "type": "string",
-      "default": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain",
+      "default": "/home/michi/swift",
       "description": "Path to the toolchain to use for call's to the Swift binary."
     },
     "swiftPMFlags": {
